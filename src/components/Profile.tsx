@@ -59,9 +59,9 @@ export const Profile = () => {
           </div>
 
           <p className="mt-2 text-start text-sm text-muted-foreground">
-            I'm a Full Stack Developer, passionate about leveraging technology
-            to help founders create impactful solutions. Enthusiastic about
-            open-source projects and startup innovation.
+            I&apos;m a Full Stack Developer, passionate about leveraging
+            technology to help founders create impactful solutions. Enthusiastic
+            about open-source projects and startup innovation.
           </p>
           <Button className="mt-4 w-full" asChild>
             {/* TODO: Add resume */}
