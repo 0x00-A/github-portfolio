@@ -17,7 +17,7 @@ export default function Home() {
             {/* Projects Section */}
             <Projects />
             {/* Experience Section */}
-            <Experience />
+            {/* <Experience /> */}
           </main>
         </div>
       </div>
